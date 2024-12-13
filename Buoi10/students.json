@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1, "full_name": "Tèo Nguyễn", "mark": 8.5, "grade": "A"
+    },
+    {
+        "id": 2, "full_name": "Lý Lê", "mark": 7.5, "grade": "B"
+    }
+]
